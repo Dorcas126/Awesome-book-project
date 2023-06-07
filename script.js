@@ -50,6 +50,7 @@ const remove = (id) => {
 window.remove = remove;
 
 // Single page navigation
+
 const allBooks = document.querySelector('.all-books');
 const addBook = document.querySelector('.add-book');
 const contact = document.querySelector('.contact');
