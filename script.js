@@ -50,3 +50,36 @@ const remove = (id) => {
 window.remove = remove;
 
 // Single page navigation
+const allBooks = document.querySelector('.all-books');
+const addBook = document.querySelector('.add-book');
+const contact = document.querySelector('.contact');
+const navList = document.querySelector('#list');
+const navAdd = document.querySelector('#add');
+const navContact = document.querySelector('#contact');
+
+navList.onclick = () => {
+  navList.style.color = 'rgb(53, 137, 255)';
+  navAdd.style.removeProperty('color');
+  navContact.style.removeProperty('color');
+  allBooks.classList.remove('hide');
+  addBook.classList.add('hide');
+  contact.classList.add('hide');
+};
+
+navAdd.onclick = () => {
+  navAdd.style.color = 'rgb(53, 137, 255)';
+  navList.style.removeProperty('color');
+  navContact.style.removeProperty('color');
+  addBook.classList.remove('hide');
+  allBooks.classList.add('hide');
+  contact.classList.add('hide');
+};
+
+navContact.onclick = () => {
+  navContact.style.color = 'rgb(53, 137, 255)';
+  navList.style.removeProperty('color');
+  navAdd.style.removeProperty('color');
+  contact.classList.remove('hide');
+  addBook.classList.add('hide');
+  allBooks.classList.add('hide');
+};
