@@ -69,7 +69,7 @@ In this project, we will build a basic website that allows users to add/remove b
 
 - **[Add HTML]**
 - **[Add css]**
-- **[Add Desktop and Mobile screen responsiveness]**
+- **[Add Navigation to the Awesome book]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +77,7 @@ In this project, we will build a basic website that allows users to add/remove b
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://dorcas126.github.io/final-capstone-project-1/)
+- [Live Demo Link](https://dorcas126.github.io/Awesome-book-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +86,7 @@ In this project, we will build a basic website that allows users to add/remove b
 ## 💻 Getting Started 
 
 To get a local copy up and running, follow these steps.
-just visit my repo folder (https://github.com/Dorcas126/final-capstone-project-1)
+just visit my repo folder (https://github.com/Dorcas126/Awesome-book-project)
 
 ### Prerequisites
 
@@ -98,7 +98,7 @@ but mostly use Vs code
 ### Setup 
 
 Clone this repository to your desired folder:
-https://github.com/Dorcas126/final-capstone-project-1.git
+https://github.com/Dorcas126/Awesome-book-project.git
 
 ### Install
 
@@ -152,9 +152,7 @@ Feel free to check the [issues page](../../issues/).
 
 ### Future Features 
 
-- **[Add functionality using JS]**
-- **[Add Boostrap to my html file]**
-
+- **[Make the page responsive on both mobile and desktop]**
 
 <!-- SUPPORT -->
 
@@ -170,7 +168,7 @@ Thank you.
 
 ## 🙏 Acknowledgments 
 
-I would like to thank [Cindy Shin](https://www.behance.net/adagio07) in Behance.
+I would like to thank each and everyone who contributed in my project.
 Thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
