@@ -34,11 +34,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [setup and mobile first project] 
+# 📖 [Awesome Book Project] 
 
-This is my first project on Microverse 
-I add a heading to my html file 
-and styled it , by giving it a color.
+In this project, we will build a basic website that allows users to add/remove books from a list. We will achieve that by using JavaScript objects and arrays. We will also need to dynamically modify the DOM and add basic events.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -80,7 +78,6 @@ and styled it , by giving it a color.
 ## 🚀 Live Demo 
 
 - [Live Demo Link](https://dorcas126.github.io/final-capstone-project-1/)
-- [Link to my video] (https://drive.google.com/file/d/1tXLM-2YoC6D4TVei7hZyoYBMZ34V9HiD/view)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,6 +130,12 @@ Linters
 - GitHub: [@Dorcas126](https://github.com/Dorcas126)
 - Twitter: [@Dorcasuw](https://twitter.com/Dorcasuwi)
 - LinkedIn: [Uwimbabazi Dorcas](https://www.linkedin.com/in/uwimbabazi-dorcas-956a5a226/)
+
+👤 **Chongtham Ruby Devi**
+
+- GitHub: [@rubydevi](https://github.com/rubydevi)
+- Twitter: [@arieabyss](https://twitter.com/ariesabyss)
+- LinkedIn: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
 
 <!-- CONTRIBUTING -->
 
